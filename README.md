@@ -13,7 +13,7 @@ The style guide is a collection of best practices and guidelines for writing cod
 
 ## Files
 
-All files are in the `assets` folder.
+All files are in the [assets](assets) folder.
 
 ### Style Guide
 
