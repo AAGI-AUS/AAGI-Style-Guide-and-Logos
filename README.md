@@ -19,6 +19,8 @@ All files are in the [assets](assets) folder.
 
 - [AAGI_logo_guidelinesV1.pdf](assets/AAGI_logo_guidelinesV1.pdf)
 
+Logos are made available in different formats to suit various needs, including print and digital media for AAGI projects only.
+
 ### Logos
 
 #### AAGI Logo
