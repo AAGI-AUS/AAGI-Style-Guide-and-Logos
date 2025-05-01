@@ -21,13 +21,22 @@ All files are in the [assets](assets) folder.
 
 ### Logos
 
-- [SVG Logo](assets/aagi-logo.svg)
+#### AAGI Logo
+
 - [PDF Logo](assets/aagi-logo.pdf)
+- [SVG Logo](assets/aagi-logo.svg)
+
+#### Partner Logos
+
 - [JPG Partner Logos](assets/Partners.jpg)
 - [PDF Partner Logos](assets/Partners.pdf)
 - [SVG Partner Logos](assets/Partners.svg)
+
+#### Partner Logos with Project Partner Logo Space for Insertion
+
 - [JPG Project Partner Logos](assets/project_partner.jpg)
 - [PDF Project Partner Logos](assets/project_partner.pdf)
+- [SVG Project Partner Logos](assets/project_partner.svg)
 
 ### AAGI Presentation Banner
 
