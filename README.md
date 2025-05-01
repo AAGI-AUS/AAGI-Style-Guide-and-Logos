@@ -34,9 +34,9 @@ All files are in the [assets](assets) folder.
 
 #### Partner Logos with Project Partner Logo Space for Insertion
 
-- [JPG Project Partner Logos](assets/project_partner.jpg)
-- [PDF Project Partner Logos](assets/project_partner.pdf)
-- [SVG Project Partner Logos](assets/project_partner.svg)
+- [JPG Project Partner Logos](assets/Project_partner.jpg)
+- [PDF Project Partner Logos](assets/Project_partner.pdf)
+- [SVG Project Partner Logos](assets/Project_partner.svg)
 
 ### AAGI Presentation Banner
 
