@@ -11,6 +11,8 @@ The colours were chosen to look modern and techy.
 
 The style guide is a collection of best practices and guidelines for writing code, documentation, and other materials related to the AAGI project.
 
+Logos are made available in different formats to suit various needs, including print and digital media for AAGI projects only.
+
 ## Files
 
 All files are in the [assets](assets) folder.
@@ -18,8 +20,6 @@ All files are in the [assets](assets) folder.
 ### Style Guide
 
 - [AAGI_logo_guidelinesV1.pdf](assets/AAGI_logo_guidelinesV1.pdf)
-
-Logos are made available in different formats to suit various needs, including print and digital media for AAGI projects only.
 
 ### Logos
 
