@@ -45,3 +45,86 @@ All files are in the [assets](assets) folder.
 - [JPG Banner](assets/AAGI_pres_banner.jpg)
 
 !["AAGI Partner Logos for GRDC, Curtin University, The University of Queensland and University of Adelaide"](assets/Partners.svg)
+
+
+# AAGI Style Guide – Issues and Recommendations Report
+
+## Introduction
+
+This report outlines a series of issues identified in the current AAGI Style Guide, based on recent feedback and practical challenges encountered by team members. The aim is to highlight areas where the guide could be clarified, expanded, or updated to better support consistent and professional communication across all AAGI outputs. Each issue is accompanied by a recommendation to guide future revisions.
+
+---
+
+## 1. Logo Terminology
+
+- **Issue**: The style guide refers to the logo as a "wheat sheaf."
+- **Clarification**: The logo is more accurately described as a stylised **wheat ear**, not a sheaf.
+- **Recommendation**: Update all references in the style guide to reflect the correct terminology to avoid confusion and ensure consistency.
+
+---
+
+## 2. Missing Document Guidelines
+
+- **Issue**: The style guide lacks comprehensive documentation standards.
+- **Details**: While there is some guidance for tables and PowerPoint title slides, there are no clear rules for:
+  - Font colours and sizes
+  - Heading hierarchies
+  - General document formatting
+- **Recommendation**: Develop a dedicated section outlining document formatting standards for consistency across all AAGI outputs.
+
+---
+
+## 3. Report Title Page Guidelines
+
+- **Issue**: No guidance exists for report title pages.
+- **Details**: This is particularly needed for:
+  - S&S
+  - R&D
+  - Upskilling & Awareness
+  - Consultancies
+- **Recommendation**: Introduce templates or visual examples for each report type to ensure brand consistency.
+
+---
+
+## 4. 2026 SharePoint Footer Update
+
+- **Issue**: The current footer uses University of Adelaide branding.
+- **Future Requirement**: With the transition to Adelaide University, all branding will need to be updated.
+- **Recommendation**: Begin planning for this transition, including:
+  - Reviewing logo usage guidelines
+  - Preparing updated templates
+  - Coordinating with branding teams
+
+---
+
+## 5. Font Usage for AAGI Reporting
+- **Issue**: Proxima Nova presents compatibility and usability issues.
+- **Details**:
+  - Difficult to integrate with LaTeX workflows (requires `xelatex`/`lualatex`)
+  - Causes copy/paste issues in PDFs when fonts aren't embedded
+- **Recommendation**:
+  - Consider adopting a more universally compatible sans-serif font (e.g., Helvetica via LaTeX’s `helvet` package)
+  - Ensure all exported PDFs embed fonts to preserve accessibility
+
+---
+
+## 6. Scope of the Style Guide
+
+- **Issue**: Ambiguity around what constitutes an "AAGI output."
+- **Details**: Misunderstandings exist about whether the style guide applies to external presentations.
+- **Recommendation**: Clearly define the scope of the style guide, including:
+  - Internal vs. external outputs
+  - Educational vs. professional materials
+  - Presentation, report, and publication standards
+---
+
+## 7. Colour Inconsistencies
+
+- **Issue**: Colour values in the logo files do not match the hex codes in the style guide.
+- **Details**: Discrepancies exist across file formats (PDF, SVG, PNG, etc.) and printed materials.
+- **Recommendation**:
+  - Audit all logo assets to ensure colour consistency
+  - Standardise colour profiles across digital and print formats
+  - Provide CMYK, RGB, and HEX values for all brand colours
+
+
