@@ -76,13 +76,13 @@ This report outlines a series of issues identified in the current AAGI Style Gui
 
 ## 3. Report Title Page Guidelines
 
-- **Issue**: No guidance exists for report title pages.
-- **Details**: This is particularly needed for:
+- **Issue**: No style or content guidance exists for client reporting title pages.
+- **Details**: AAGI delivers reporting for four key activities:
   - S&S
   - R&D
   - Upskilling & Awareness
   - Consultancies
-- **Recommendation**: Introduce templates or visual examples for each report type to ensure brand consistency.
+- **Recommendation**: Introduce reference templates to ensure brand consistency for each report type outlining the font style (type, colour, size) content, location and heading hierarchy for, the AAGI title, reporting activity, client info, prep/author info, and date stamp. Do we really need to specify the leadership info or not?
 
 ---
 
