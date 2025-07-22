@@ -13,6 +13,13 @@ The style guide is a collection of best practices and guidelines for writing cod
 
 Logos are made available in different formats to suit various needs, including print and digital media for AAGI projects only.
 
+## Copyright and Usage Restrictions
+
+The files and trademarks in this repository remain the sole copyright of the GRDC, AAGI, and its strategic partners Curtin University, the University of Queensland, and the University of Adelaide. 
+
+This repository is made publicly visible for the purposes of transparency and ease of access for AAGI personnel. _No licence is provided for public use._ Any
+reproduction, modification or sharing of these files outside of an AAGI context must first be explicitly approved by the GRDC and the AAGI strategic partners.
+
 ## Files
 
 All files are in the [assets](assets) folder.
